@@ -1,0 +1,14 @@
+# Compiled output
+dist
+
+# Node
+node_modules
+
+# Visual Studio Code
+.vscode/*
+
+# Miscellaneous
+.angular/
+
+# Environment file
+.env
